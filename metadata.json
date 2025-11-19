@@ -1,0 +1,6 @@
+{
+  "name": "UCR Research Computing Dashboard",
+  "description": "A dashboard for tracking researchers, labs, projects, compute resources, and CRM functionalities with AI integrations for the University of California, Riverside.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
